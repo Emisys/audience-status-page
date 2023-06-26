@@ -13,7 +13,7 @@ sites:
     url: https://audience.byemisys.com
 
 status-website:
-  name: status.byemisys.com
+  cname: status.byemisys.com
   baseUrl: /
   logoUrl: https://ticketing.byemisys.com/favicon/favicon_light.png
   name: Audience Status
