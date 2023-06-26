@@ -13,20 +13,12 @@ sites:
     url: https://audience.byemisys.com
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   name: status.byemisys.com
   baseUrl: /
-  # baseUrl: /audience-status-page
   logoUrl: https://ticketing.byemisys.com/favicon/favicon_light.png
-  name: Audience
+  name: Audience Status
   introTitle: "This is Audience’s status page, where you can get updates on how our systems are doing. If there are interruptions to service, we will post a note here."
   introMessage: "If you are experiencing any issues with Audience, don’t hesitate to get in touch with us at support-tech@emisys.com and we’ll get back to you as soon as we can."
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
