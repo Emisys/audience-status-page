@@ -22,19 +22,19 @@
     "url": "https://pos.byemisys.com",
     "icon": "https://icons.duckduckgo.com/ip3/pos.byemisys.com.ico",
     "slug": "au-pos",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 304,
-    "timeDay": 293,
-    "timeWeek": 304,
-    "timeMonth": 304,
-    "timeYear": 304,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
+    "time": 462,
+    "timeDay": 694,
+    "timeWeek": 462,
+    "timeMonth": 462,
+    "timeYear": 462,
     "dailyMinutesDown": {
-      "2023-06-27": 0
+      "2023-06-27": 5
     }
   },
   {
