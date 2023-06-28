@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 273,
-    "timeDay": 187,
-    "timeWeek": 273,
-    "timeMonth": 273,
-    "timeYear": 273,
+    "time": 269,
+    "timeDay": 254,
+    "timeWeek": 269,
+    "timeMonth": 269,
+    "timeYear": 269,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pos.byemisys.com.ico",
     "slug": "au-pos",
     "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
-    "time": 462,
-    "timeDay": 694,
-    "timeWeek": 462,
-    "timeMonth": 462,
-    "timeYear": 462,
-    "dailyMinutesDown": {
-      "2023-06-27": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 423,
+    "timeDay": 662,
+    "timeWeek": 423,
+    "timeMonth": 423,
+    "timeYear": 423,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Au* Kiosk",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 276,
-    "timeDay": 202,
-    "timeWeek": 276,
-    "timeMonth": 276,
-    "timeYear": 276,
+    "time": 274,
+    "timeDay": 265,
+    "timeWeek": 274,
+    "timeMonth": 274,
+    "timeYear": 274,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1676,
-    "timeDay": 1541,
-    "timeWeek": 1676,
-    "timeMonth": 1676,
-    "timeYear": 1676,
+    "time": 1635,
+    "timeDay": 1472,
+    "timeWeek": 1635,
+    "timeMonth": 1635,
+    "timeYear": 1635,
     "dailyMinutesDown": {}
   }
 ]
