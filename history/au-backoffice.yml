@@ -1,7 +1,7 @@
 url: https://audience.byemisys.com
-status: up
-code: 200
-responseTime: 1636
-lastUpdated: 2023-07-04T23:00:53.322Z
+status: down
+code: 503
+responseTime: 320
+lastUpdated: 2023-07-05T03:52:57.861Z
 startTime: Mon Jun 26 2023 09:23:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
