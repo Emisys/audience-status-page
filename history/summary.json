@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 173,
-    "timeDay": 111,
-    "timeWeek": 179,
-    "timeMonth": 173,
-    "timeYear": 173,
+    "time": 175,
+    "timeDay": 219,
+    "timeWeek": 186,
+    "timeMonth": 162,
+    "timeYear": 175,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 121,
-    "timeWeek": 198,
-    "timeMonth": 229,
-    "timeYear": 229,
+    "time": 230,
+    "timeDay": 252,
+    "timeWeek": 205,
+    "timeMonth": 220,
+    "timeYear": 230,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 186,
-    "timeDay": 101,
-    "timeWeek": 185,
-    "timeMonth": 186,
+    "timeDay": 195,
+    "timeWeek": 192,
+    "timeMonth": 174,
     "timeYear": 186,
     "dailyMinutesDown": {}
   },
@@ -59,18 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/audience.byemisys.com.ico",
     "slug": "au-backoffice",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1258,
-    "timeDay": 865,
-    "timeWeek": 1235,
-    "timeMonth": 1258,
-    "timeYear": 1258,
-    "dailyMinutesDown": {
-      "2023-07-26": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1268,
+    "timeDay": 1057,
+    "timeWeek": 1244,
+    "timeMonth": 1229,
+    "timeYear": 1268,
+    "dailyMinutesDown": {}
   }
 ]
