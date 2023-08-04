@@ -42,19 +42,19 @@
     "url": "https://kiosk.byemisys.com",
     "icon": "https://icons.duckduckgo.com/ip3/kiosk.byemisys.com.ico",
     "slug": "au-kiosk",
-    "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "92.64%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.81%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "93.34%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.83%",
     "time": 1564,
     "timeDay": 12884,
     "timeWeek": 5944,
     "timeMonth": 1982,
     "timeYear": 1564,
     "dailyMinutesDown": {
-      "2023-08-04": 106
+      "2023-08-04": 96
     }
   },
   {
