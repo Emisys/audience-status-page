@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ticketing.byemisys.com.ico",
     "slug": "au-ticketing",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "96.71%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.91%",
+    "uptimeDay": "96.35%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.91%",
     "time": 2396,
     "timeDay": 17554,
     "timeWeek": 8870,
     "timeMonth": 3063,
     "timeYear": 2396,
     "dailyMinutesDown": {
-      "2023-08-04": 47
+      "2023-08-04": 52
     }
   },
   {
@@ -42,9 +42,9 @@
     "url": "https://kiosk.byemisys.com",
     "icon": "https://icons.duckduckgo.com/ip3/kiosk.byemisys.com.ico",
     "slug": "au-kiosk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "93.35%",
+    "uptimeDay": "93.34%",
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.83%",
