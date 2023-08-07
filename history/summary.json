@@ -10,11 +10,11 @@
     "uptimeWeek": "99.43%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.90%",
-    "time": 2279,
-    "timeDay": 472,
-    "timeWeek": 8264,
-    "timeMonth": 3011,
-    "timeYear": 2279,
+    "time": 2241,
+    "timeDay": 305,
+    "timeWeek": 8270,
+    "timeMonth": 3015,
+    "timeYear": 2241,
     "dailyMinutesDown": {
       "2023-08-04": 57
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 224,
-    "timeDay": 206,
-    "timeWeek": 215,
-    "timeMonth": 183,
-    "timeYear": 224,
+    "time": 222,
+    "timeDay": 124,
+    "timeWeek": 186,
+    "timeMonth": 182,
+    "timeYear": 222,
     "dailyMinutesDown": {}
   },
   {
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kiosk.byemisys.com.ico",
     "slug": "au-kiosk",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.85%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "99.80%",
-    "time": 2284,
-    "timeDay": 478,
-    "timeWeek": 8256,
-    "timeMonth": 3008,
-    "timeYear": 2284,
+    "uptimeYear": "99.81%",
+    "time": 2246,
+    "timeDay": 329,
+    "timeWeek": 8265,
+    "timeMonth": 3013,
+    "timeYear": 2246,
     "dailyMinutesDown": {
       "2023-08-04": 116
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1306,
-    "timeDay": 1680,
-    "timeWeek": 1489,
-    "timeMonth": 1305,
-    "timeYear": 1306,
+    "time": 1300,
+    "timeDay": 973,
+    "timeWeek": 1422,
+    "timeMonth": 1320,
+    "timeYear": 1300,
     "dailyMinutesDown": {}
   }
 ]
