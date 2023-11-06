@@ -12,6 +12,12 @@ sites:
   - name: Au* Backoffice
     url: https://audience.byemisys.com
 
+assignees:
+  - vicbonnet
+  - jnmichielsens
+  - fmarchalemisys
+  - seblevdev
+
 status-website:
   cname: status.byemisys.com
   baseUrl: /
