@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 282,
-    "timeDay": 519,
-    "timeWeek": 304,
-    "timeMonth": 284,
+    "timeDay": 250,
+    "timeWeek": 302,
+    "timeMonth": 286,
     "timeYear": 287,
     "dailyMinutesDown": {
       "2024-04-25": 26
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 211,
-    "timeDay": 293,
-    "timeWeek": 230,
-    "timeMonth": 204,
+    "time": 210,
+    "timeDay": 148,
+    "timeWeek": 226,
+    "timeMonth": 203,
     "timeYear": 220,
     "dailyMinutesDown": {}
   },
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
-    "timeDay": 355,
-    "timeWeek": 236,
-    "timeMonth": 207,
-    "timeYear": 234,
+    "timeDay": 157,
+    "timeWeek": 227,
+    "timeMonth": 208,
+    "timeYear": 233,
     "dailyMinutesDown": {}
   },
   {
@@ -62,17 +62,16 @@
     "slug": "au-backoffice",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1246,
-    "timeDay": 1100,
-    "timeWeek": 1167,
-    "timeMonth": 1144,
-    "timeYear": 1225,
+    "time": 1245,
+    "timeDay": 936,
+    "timeWeek": 1172,
+    "timeMonth": 1148,
+    "timeYear": 1224,
     "dailyMinutesDown": {
-      "2025-01-13": 6,
       "2024-01-31": 30
     }
   }
