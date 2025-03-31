@@ -60,17 +60,19 @@
     "url": "https://audience.byemisys.com",
     "icon": "https://icons.duckduckgo.com/ip3/audience.byemisys.com.ico",
     "slug": "au-backoffice",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1237,
-    "timeDay": 1713,
-    "timeWeek": 1391,
-    "timeMonth": 1246,
-    "timeYear": 1220,
-    "dailyMinutesDown": {}
+    "time": 1235,
+    "timeDay": 1041,
+    "timeWeek": 1264,
+    "timeMonth": 1221,
+    "timeYear": 1218,
+    "dailyMinutesDown": {
+      "2025-03-31": 0
+    }
   }
 ]
