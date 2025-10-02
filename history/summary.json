@@ -60,9 +60,9 @@
     "slug": "au-backoffice",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 1297,
     "timeDay": 1267,
@@ -70,7 +70,6 @@
     "timeMonth": 1414,
     "timeYear": 1325,
     "dailyMinutesDown": {
-      "2025-10-01": 9,
       "2025-09-29": 15
     }
   }
